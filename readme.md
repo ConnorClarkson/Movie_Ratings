@@ -13,10 +13,10 @@ based on their rating.
 ## Usage
 
 ### Assumptions
-Developed using python 3.11.<br>
-users.dat has been removed due to the data not being used with the program.
-Program assumes that the data is in a `./data` folder next to the python module
-Program assumes that the development machine has access to pypi or a locally hosted mirror
+Developed using python 3.11.
+<br>users.dat has been removed due to the data not being used with the program.
+<br>Program assumes that the data is in a `./data` folder next to the python module
+<br>Program assumes that the development machine has access to pypi or a locally hosted mirror
 ### Setting up
 
 To setup the python env for running the PySpark app do the following:
